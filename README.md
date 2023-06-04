@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Orel Aviad</h1>
 <h3 align="center">A computer science graduate, I'm eager find my first opportunity in the programming field.</h3>
 
-- 🌱 I’m currently learning **React Native**
+<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Skills: C/C++, Python, Java, Java Script, Node.js, Assembly, SQL, HTML, CSS, Jenkins, Selenium, linux.</p>
 
 - 📫 How to reach me **Orel.avihad@gmail.com**
 
