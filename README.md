@@ -2,14 +2,12 @@
 <h1 align="center">Hi 👋, I'm Orel Aviad</h1>
 <h3 align="center">A computer science graduate, I'm eager find my first opportunity in the programming field.</h3>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Skills: C/C++, Python, Java, Java Script, Node.js, Assembly, SQL, HTML, CSS, Jenkins, Selenium, linux.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Skills: C/C++, Python, Java, Java Script, C#.</p>
 
 - 📫 How to reach me **Orel.avihad@gmail.com**
 
-- ⚡ Intersting fact **I am a firefighter**
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink"><img align="right" height="300" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
+<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> React, Node.js, Spring, HTML/CSS, SQL.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/orel-aviad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orel-aviad/" height="30" width="40" /></a>
