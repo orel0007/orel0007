@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orel Aviad</h1>
-<h3 align="center">As a computer science graduate, I'm eager to apply my skills as a software developer, contribute to innovative projects, and grow in the dynamic field of technology. With a strong foundation in programming languages and a passion for problem-solving, I'm excited to collaborate with like-minded professionals and make meaningful contributions to software development.</h3>
+<h3 align="center">A passionate computer sience graduate
+.</h3>
 
 - 🌱 I’m currently learning **React Native**
 
