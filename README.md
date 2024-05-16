@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Orel Aviad</h1>
 <h3 align="center">A computer science graduate, I'm eager find my first opportunity in the programming field.</h3>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Skills: C/C++, Python, Java, Java Script, C#.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Skills: C/C++, Python, Java, Java Script, C#, PostgresSQL, MongoDb, Kafka, Cssandra, Docker, AWS.</p>
 
 
 
